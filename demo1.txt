@@ -1,1 +1,1 @@
-"This is line 1 changed in main" 
+"This is line 1 -merged content from both branches" 
